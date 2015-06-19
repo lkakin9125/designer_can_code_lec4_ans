@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <!--if oneshot is true, it will only play once-->
+    <!-- else it will play and loop again-->
+    <!--list out all the frame duration-->
+    <item android:drawable="@drawable/sunny0" android:duration="500"/>
+    <item android:drawable="@drawable/sunny6" android:duration="500"/>
+</animation-list>
